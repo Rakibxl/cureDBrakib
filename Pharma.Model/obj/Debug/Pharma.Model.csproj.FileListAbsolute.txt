@@ -1,0 +1,4 @@
+D:\Pharmachy Solution\Pharmachy\Pharma.Model\bin\Debug\Pharma.Model.dll
+D:\Pharmachy Solution\Pharmachy\Pharma.Model\bin\Debug\Pharma.Model.pdb
+D:\Pharmachy Solution\Pharmachy\Pharma.Model\obj\Debug\Pharma.Model.dll
+D:\Pharmachy Solution\Pharmachy\Pharma.Model\obj\Debug\Pharma.Model.pdb

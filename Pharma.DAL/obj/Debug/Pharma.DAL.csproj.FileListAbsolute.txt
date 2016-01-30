@@ -1,0 +1,4 @@
+D:\Pharmachy Solution\Pharmachy\Pharma.DAL\bin\Debug\Pharma.DAL.dll
+D:\Pharmachy Solution\Pharmachy\Pharma.DAL\bin\Debug\Pharma.DAL.pdb
+D:\Pharmachy Solution\Pharmachy\Pharma.DAL\obj\Debug\Pharma.DAL.dll
+D:\Pharmachy Solution\Pharmachy\Pharma.DAL\obj\Debug\Pharma.DAL.pdb

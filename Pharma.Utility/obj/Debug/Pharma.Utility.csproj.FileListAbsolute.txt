@@ -1,0 +1,4 @@
+D:\Pharmachy Solution\Pharmachy\Pharma.Utility\bin\Debug\Pharma.Utility.dll
+D:\Pharmachy Solution\Pharmachy\Pharma.Utility\bin\Debug\Pharma.Utility.pdb
+D:\Pharmachy Solution\Pharmachy\Pharma.Utility\obj\Debug\Pharma.Utility.dll
+D:\Pharmachy Solution\Pharmachy\Pharma.Utility\obj\Debug\Pharma.Utility.pdb
